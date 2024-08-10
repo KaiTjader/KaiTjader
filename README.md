@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KaiTjader.
+- 👋 Hi, I’m @KaiTjader. Manager of Emerald Technologies LLC and Intern at Two Six Technologies.
 - 👀 I’m interested in advancing my knowledge in every aspect of computers. I love to solve problems and make things more efficient.
 - 🌱 I’m currently learning about building ML models, Vue, and making apps. Curently working on this website [https://3Generations.ai](https://3generations.ai/)
 - 💞️ I want to collaborate on more projects to get more real-world experience. I also want to create my own business to make a positive impact on the world.
